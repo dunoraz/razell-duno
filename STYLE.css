@@ -1,0 +1,184 @@
+body{
+    background-image: url(pic/background.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-attachment: fixed;
+    background-position: center;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1{
+    color: black;
+    font-family: Century Gothic;
+    font-size: 95px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 40px;
+}
+#Aboutme{
+    font-family: Century gothic;
+    color: white;
+    opacity: 0.8;
+    margin-top: 150px;
+    text-align: center;
+    text-shadow: 7px 7px black;
+    font-size: 60px;
+    letter-spacing: 30px;
+    
+}
+h4{
+    color: black;
+    opacity: 0.8;
+    font-family: Century Gothic;
+    margin-top: -50px;
+    text-align: center;
+    letter-spacing: 40PX;
+}
+#zell1{
+    margin-top: -50px;
+    margin-right: 60px;
+}
+#paragraph1{
+    float: left;
+    font-family: lucida sans;
+    color: white;
+    opacity: 0.7;
+    font-size: 13px;
+    margin-left: 150px;
+    margin-top: 480px;
+}
+h2{
+    Color: black;
+    font-size: 30px;
+    opacity: 0.8;
+    font-family: century Gothic;
+    letter-spacing: 40px;
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+#Razell3{
+    margin-left: 50px;
+    margin-top: -140px;
+    border-radius: 80px;
+    float: left;
+}
+h5{
+    font-family: century gothic;
+    background-color: white;
+    border-top-left-radius:  8px;
+    margin-left: 650px;
+    margin-right: 25px;
+    padding: 2px;
+    letter-spacing: 15px;
+    color: black;
+    opacity:0.5;
+    font-size: 14pt;
+    text-align: left;
+    margin-top: 40px;
+}
+ul{
+    text-align: left;
+    color: white;
+    font-family: lucida sans;
+    font-size: 13px;
+    opacity:0.7;
+}
+#Razell2{
+    margin-left: 50px;
+
+}
+h3{
+    font-family: century gothic;
+    text-align: center;
+    color: black;
+    margin-top: 170px;
+    letter-spacing: 40px;
+    font-size: 30px;
+    opacity: 0.8;
+}
+#paragraph2{
+    color: white;
+    text-align: center;
+    opacity:0.9;
+    margin-top: -15px;
+    font-family: century gothic;
+    letter-spacing: 10px;
+}
+table, th,td{
+    border: 1px solid darkgrey;
+    border-collapse: collapse;
+    font-family: lucida sans;
+    margin-top: 50px;
+    margin-left: 350px;
+    padding: 10px;    
+}
+table{
+    float: center;
+    
+}
+th{
+    font-family: century gothic;
+    background-color: white;
+    color: black;
+    opacity: 0.7;
+    letter-spacing: 10px;
+}
+td{
+    font-size: 12px;
+    opacity:0.9;
+    color: white;
+    text-align: center;
+}
+video{
+    float: right;
+    margin-top: -200px;
+    margin-right: 130px;
+}
+#paragraph3{
+    font-family: century gothic;
+    color:white;
+    opacity: 0.8;
+    letter-spacing: 5px;
+    font-size: 40px;
+    margin-top: 300px;
+    margin-left: 150px;
+}
+#hpic{
+    margin-left: 100px;
+    margin-top: 250px;
+}
+#paragraph4{
+    margin-top: -120px;
+    margin-right: 350px;
+    float: right;
+    font-family: century gothic;
+    color:white;
+    opacity: 0.8;
+    letter-spacing: 5px;
+    font-size: 40px;
+}
+#epic{
+    margin-left: 660px;
+    margin-top: 130px;
+}
+#Paragraph5{
+    font-family: century gothic;
+    color:white;
+    opacity: 0.8;
+    letter-spacing: 5px;
+    font-size: 40px;
+    margin-top: -200px;
+    margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
